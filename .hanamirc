@@ -1,0 +1,4 @@
+project=hanami_oauth
+architecture=container
+test=rspec
+template=erb
